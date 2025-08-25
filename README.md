@@ -56,4 +56,8 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 
 ---
 
-⭐ If you find this useful, don’t forget to **star the repo**!  
+Check the **Manual.md** for more information. 
+---
+⭐ If you find this useful, don’t forget to **star the repo**!
+
+---
