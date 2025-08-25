@@ -31,6 +31,19 @@ No need for complex setup or configs – just **download, extract, run, and play
 
 ---
 
+## 📌 How to Start the Server
+1. Inside this folder, you’ll see two files:
+   - **Run with GUI** → Recommended (shows a control window with buttons).
+   - **Run no GUI** → Advanced (just a command window, no buttons).
+
+   Beginners should use **Run with GUI**.
+
+2. Double-click your choice:
+   - The server will start.
+   - A new world will generate automatically.
+
+---
+
 ## 🤝 Contributing
 Found a bug or want a feature?  
 - Open an **issue**  
