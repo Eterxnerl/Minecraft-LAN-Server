@@ -34,14 +34,6 @@ No need for complex setup or configs – just **download, extract, run, and play
 
 ---
 
-## 📂 Included Files
-- `server.jar` – The Minecraft server  
-- `run.bat` – Start with console  
-- `start.bat` – Start without console  
-- `eula.txt` – Pre-accepted EULA  
-- `README.md` – This guide  
-
----
 
 ## 🛠️ Requirements
 - Java 17+ (Adoptium / Microsoft OpenJDK recommended)  
