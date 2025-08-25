@@ -25,16 +25,6 @@ No need for complex setup or configs – just **download, extract, run, and play
 
 ---
 
-## ⚡ Quick Start
-1. ⬇️ [Download the latest release](https://github.com/Eterxnerl/Minecraft-LAN-Server/releases/latest)  
-2. 📂 Extract the `.zip` anywhere on your PC  
-3. 🖱️ Double-click **`run.bat`** to start the server  
-4. 🎮 Open Minecraft → Multiplayer → Direct Connect  
-5. 🌍 Enter your **server IP** → Play with friends instantly!  
-
----
-
-
 ## 🛠️ Requirements
 - Java 17+ (Adoptium / Microsoft OpenJDK recommended)  
 - Minecraft **1.21+** client  
