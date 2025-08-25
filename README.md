@@ -43,11 +43,6 @@ No need for complex setup or configs – just **download, extract, run, and play
 
 ---
 
-## 🖼️ Preview
-*(Add screenshots here if you want – for example, server running in CMD or multiplayer list in Minecraft)*
-
----
-
 ## 🛠️ Requirements
 - Java 17+ (Adoptium / Microsoft OpenJDK recommended)  
 - Minecraft **1.21+** client  
@@ -62,7 +57,7 @@ Found a bug or want a feature?
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** – see the [LICENSE](LICENSE) file for details.  
 
 ---
 
